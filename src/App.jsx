@@ -9,7 +9,8 @@ import './App.css'
 
 function App() {
   return (
-    <Router>
+    /* Add the basename prop here */
+    <Router basename="/featureforge"> 
       <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
