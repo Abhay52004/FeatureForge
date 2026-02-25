@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 110" width="220" height="110">
+  <defs>
+    <style>
+      .cloud-shape {
+        fill: rgba(255, 255, 255, 0.75);
+      }
+    </style>
+  </defs>
+  <ellipse cx="55" cy="65" rx="38" ry="32" class="cloud-shape"/>
+  <ellipse cx="110" cy="52" rx="55" ry="38" class="cloud-shape"/>
+  <ellipse cx="165" cy="65" rx="38" ry="32" class="cloud-shape"/>
+</svg>
